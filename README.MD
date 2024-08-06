@@ -16,6 +16,8 @@ npx tsc --init
 npx tsc
 node ./build/server.js
 
+npx tsc
+
 \\ - SCRIPTS json -
 \\ "predev": "npx tsc",
 \\ "dev": "node ./build/server.js",
