@@ -31,3 +31,14 @@ npm i ts-node
 https://github.com/otaviolube/devwebavancadauvv20242
 
 npm run dev
+
+npm install express
+
+server.ts - > import express from 'express';
+const app = express();
+app.get('/', function(req : Request, res: Response){
+res.send("olá")});
+
+app.listen(3000, function(){
+console.log("roda porta 3000")
+});
