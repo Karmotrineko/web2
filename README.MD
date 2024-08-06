@@ -27,3 +27,5 @@ npm i ts-node
 \\ "build": "npx tsc",
 
 https://github.com/otaviolube/devwebavancadauvv20242
+
+npm run dev
