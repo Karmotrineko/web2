@@ -42,3 +42,6 @@ res.send("olá")});
 app.listen(3000, function(){
 console.log("roda porta 3000")
 });
+
+n precisa de node modules
+npm install
