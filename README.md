@@ -23,3 +23,7 @@ DATABASE_URL=file:./dev.db
 Groq: (https://console.groq.com/docs/quickstart)
 Pegar a key, colocar no .evn **GROQ_API_KEY=**
 npm install --save groq-sdk
+
+bcrypt: (https://www.npmjs.com/package/bcrypt)
+**npm i bcrypt**
+**npm i --save-dev @types/bcrypt**
