@@ -19,6 +19,7 @@ DATABASE_URL=file:./dev.db
 
 **npx install**
 **npx prisma generate**
+(npx prisma migrate dev --name nome)
 
 Groq: (https://console.groq.com/docs/quickstart)
 Pegar a key, colocar no .evn **GROQ_API_KEY=**
